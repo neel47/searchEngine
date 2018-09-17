@@ -1,5 +1,9 @@
 # Search Engine
 
+Web-based search engine
+
+Technologies :    Java, Spring MVC, jSoup, jQuery
+
 Simplified search engine using efficient sorting algorithms and data structures for creating a list of all the unique words that appear in any document, and for each word, a list of the documents in which it appears (inverted index). Successfully optimized time and space complexities. 
 
 System Flow:- 

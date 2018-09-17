@@ -15,6 +15,6 @@ Technical wrap-up:
 • SVN for version control 
 • Responsive Front-end: Javascript, jQuery
 
-Date: March 2018 
-Client: Graduate Academic Project 
+Date: March 2018; 
+Client: Graduate Academic Project; 
 Category: Web Application
